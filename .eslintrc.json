@@ -27,7 +27,9 @@
     "semi": ["error", "always"],
     "prettier/prettier": "error",
     "react/jsx-uses-react": "error",
-    "react/jsx-uses-vars": "error"
+    "react/jsx-uses-vars": "error",
+    "react/prop-types": "off",
+    "no-console": "off"
   },
   "settings": {
     "react": {
